@@ -37,7 +37,8 @@ plt.ylabel('MAEloss')
 plt.title('model_2')
 plt.show()
 
-rmse_loss, mae_loss = test(model, testloader)
-print(f"rmse_loss: {rmse_loss:.4f} mae_loss: {mae_loss:.4f}")
+# rmse_loss, mae_loss = test(model, testloader)
+# print(f"rmse_loss: {rmse_loss:.4f} mae_loss: {mae_loss:.4f}")
 
-torch.save(model.state_dict(),'./result/model2.pt')
+# torch.save(model.state_dict(),'./result/model2.pt')
+
