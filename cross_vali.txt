@@ -1,0 +1,8 @@
+model_0 to data1:rmse_loss: 0.3957 mae_loss: 0.3209
+model_0 to data2:rmse_loss: 0.2154 mae_loss: 0.1543
+
+model_1 to data0 : rmse_loss: 0.3644 mae_loss: 0.2967
+model_1 to data2: rmse_loss: 0.2376 mae_loss: 0.1706
+
+model_2 to data0 : 0.1889 mae_loss: 0.1494
+model_2 to data1 :0.2185 mae_loss: 0.1708
